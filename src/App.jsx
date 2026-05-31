@@ -32,7 +32,7 @@ const MEMORY_TIPS = [
   "🔗 GLUE the image directly to the feature — imagine it physically there"
 ];
 
-const DEFAULT_MODEL = "claude-sonnet-4-20250514";
+const DEFAULT_MODEL = "claude-sonnet-4-6";
 const LS_KEY = "namelock_apikey";
 const LS_MODEL = "namelock_model";
 const LS_SAVED = "namelock_saved";
